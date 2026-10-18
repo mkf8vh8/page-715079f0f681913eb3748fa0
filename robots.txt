@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-0b8ce4236a.fdsyper.cn/sitemap.xml
